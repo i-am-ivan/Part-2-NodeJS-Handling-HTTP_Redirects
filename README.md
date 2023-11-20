@@ -9,7 +9,7 @@ Welcome to the second part of the NodeJS Handling HTTP Redirects series! 🚀 In
 - **Code Elegance:** Delve into clean and concise code snippets, showcasing your prowess in NodeJS development.
 
 ## Implementation Guide 📖
-1. Clone the repository: `git clone https://github.com/your-username/NodeJS_Handling_HTTP_Redirects.git`
+1. Clone the repository: `git clone https://github.com/i-am-ivan/Part-2-NodeJS-Handling-HTTP_Redirects.git`
 2. Navigate to the project folder: `cd NodeJS_Handling_HTTP_Redirects`
 3. Explore the detailed code examples and implementation guidelines in the project files.
 
